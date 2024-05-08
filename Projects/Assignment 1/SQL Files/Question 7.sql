@@ -1,0 +1,2 @@
+SELECT * FROM book
+	WHERE Publication_Date BETWEEN '2000-01-01' AND '2005-12-31' 
